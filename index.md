@@ -51,7 +51,7 @@ Content in the first column | Content in the second column
 ~~this~~
 
 
-**This is bold _also Italic_ **
+**This is bold _also Italic_**
 
 Unordered List
 * First
