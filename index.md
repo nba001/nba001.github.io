@@ -49,3 +49,23 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 ~~this~~
+
+
+__This is bold _also Italic_ __
+
+Unordered List
+* First
+* Second 
+* Third
+  * Sub Three
+ 
+Ordered List 
+1. One
+2. Two
+3. Three
+  1. Sub Three - 1
+  2. Sub Three - 2
+4. Four
+
+[Link to Google](google.com)
+![link to image](https://d1q6f0aelx0por.cloudfront.net/product-logos/54dc00cd-6d77-4cb0-93aa-8d3e16089630O_Database_clr.png?)
